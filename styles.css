@@ -53,5 +53,13 @@ text-align: right;
 .hero nav li{
   display: inline-block;
   list-style-type: none;
-  padding-right: 15px;
+  padding-right: 1px solid white;
+  margin-left: 16px;
+}
+
+.hero nav a{
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  display: block;
 }
